@@ -9,9 +9,9 @@ O QualiBoardBR é um Sistema de Controle de Bugs desenvolvido para auxiliar empr
 ### 1. Tecnologias utilizadas - Backend e Frontend
 
 - **Backend:** PHP puro (utilizando a extensão PDO para comunicação segura com o banco de dados).
-- **Frontend:** HTML5 e CSS3 (estruturação das páginas e estilização, conforme o arquivo `style.css`).
+- **Frontend:** HTML5 e CSS3
 - **Banco de Dados:** MySQL.
-- **Ambiente de Desenvolvimento:** Servidor local Apache e MariaDB/MySQL providos pelo XAMPP.
+- **Ambiente de Desenvolvimento:** Servidor local Apache e MySQL providos pelo XAMPP.
 
 ### 2. Funcionalidades implementadas
 
@@ -28,8 +28,7 @@ O QualiBoardBR é um Sistema de Controle de Bugs desenvolvido para auxiliar empr
 ### 4. Outras funcionalidades implementadas
 
 - **Proteção de rotas:** Redirecionamento automático de usuários não autenticados que tentam acessar as páginas internas do sistema.
-- Tratamento de exceções no banco de dados (visível no bloco `try-catch` da conexão PDO) para evitar a exibição de erros críticos aos usuários.
-
+  
 ### 5. Principais desafios e dificuldades
 
 - Estruturar o relacionamento entre as tabelas no banco de dados MySQL (garantindo que a chave estrangeira do projeto no cadastro de bugs funcionasse corretamente).
