@@ -30,6 +30,30 @@ Neste trabalho não serão considerados:
 
 Protótipos para as páginas (dashboard de projetos, listagem de bugs, tela de cadastro/edição e painel de filtros).
 
+**Tela de Login:**
+![Tela de Login](img-prototype/Tela%20de%20Login.png)
+
+**Cadastro:**
+![Cadastro](img-prototype/Cadastro.png)
+
+**Dashboard - Visão Admin:**
+![Dashboard Visão Admin](img-prototype/Dashboard-VisaoAdmin.png)
+
+**Dashboard - Visão Usuário Comum:**
+![Dashboard Visão Usuário Comum](img-prototype/Dashboard-VisaoUsuarioComum.png)
+
+**Edição de Ocorrência:**
+![Edição de Ocorrência](img-prototype/EdicaoOcorrencia.png)
+
+**Edição de Usuário:**
+![Edição de Usuário](img-prototype/EdicaoUsuario.png)
+
+**Lista de Projetos:**
+![Lista de Projetos](img-prototype/ListaProjetos.png)
+
+**Lista de Usuários:**
+![Lista de Usuários](img-prototype/ListaUsuarios.png)
+
 ### 5. Referências
 
 IBM. **Teste de software**: o que é teste de software e como ele funciona? IBM Think Topics, [s. d.]. Disponível em: <https://www.ibm.com/br-pt/think/topics/software-testing>. Acesso em: 18 maio 2026.
